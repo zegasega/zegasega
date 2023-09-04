@@ -1,4 +1,4 @@
-[![MasterHead](http://www.yandex.com.tr/gorsel/search?from=tabbar&img_url=https%3A%2F%2Fi0.wp.com%2Fwww.theseattledataguy.com%2Fwp-content%2Fuploads%2F2021%2F04%2F1.png%3Fw%3D1920%26ssl%3D1&lr=103829&pos=7&rpt=simage&text=data%20engineer)
+[![MasterHead](https://www.yandex.com.tr/gorsel/search?from=tabbar&img_url=https%3A%2F%2Fsun9-47.userapi.com%2Fsun9-72%2Fimpf%2FYb7tS-6EU9uUySDIDY59PjnC6akLOqG6ut4mQw%2F_iTl1PKk1Jk.jpg%3Fsize%3D537x240%26quality%3D96%26sign%3D0e301160d0049f10ee77ca3940464e97%26type%3Dshare&lr=103829&pos=39&rpt=simage&text=data%20engineer)
 <h1 align="center">Hi 👋, I'm Gokberk Kozak</h1>
 <h3 align="center">JUNIOR DATA ENGINEER</h3>
 
